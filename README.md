@@ -1,7 +1,7 @@
 # NSAPub
 Neighbourhood Sustainability Assessment using Publicly available data
 
-## Files
+## Main files
  * [`01_traffic_google_preprocess.ipynb`](01_traffic_google_preprocess.ipynb): data validation, preprocessing and export for further analyses of travel time data.
  * [`02_traffic_google_basic.ipynb`](02_traffic_google_basic.ipynb): data import, validation, basic visualisation and some tests of travel time data.
   * [`03_traffic_google_analyse_circadian.ipynb`](03_traffic_google_analyse_circadian.ipynb): circadian analyis  of travel time data using the CosinorPy package (located in the `CosinorPy` folder). Results are exported to `cosinor_results*` folders.
