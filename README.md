@@ -1,5 +1,7 @@
-# NSAPub
-Neighbourhood Sustainability Assessment using Publicly available data
+# NSAPub: Neighbourhood Sustainability Assessment using Publicly available data
+
+This repository is accompanying the paper **Integrative approach for neighbourhood sustainability assessment using publicly available traffic data** by *Š. Verovšek, M.  Juvančič, S. Petrovčič, T. Zupančič, M. Svetina, M. Janež, Ž. Pušnik, N, Velikajne, and M, Moškon*.
+
 
 ## Main files
  * [`traffic_google_preprocess.ipynb`](traffic_google_preprocess.ipynb): data validation, preprocessing and export for further analyses of travel time data.
