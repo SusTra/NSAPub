@@ -19,8 +19,3 @@ This repository is accompanying the paper **Integrative approach for neighbourho
  * `figs`: selected figures.
 
  
-
-
-
-
-
