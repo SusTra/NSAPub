@@ -1,5 +1,5 @@
-# SusTra
-SusTra: analysis of traffic sustainability
+# NSAPub
+Neighbourhood Sustainability Assessment using Publicly available data
 
 ## Files
  * [`01_traffic_google_preprocess.ipynb`](https://github.com/mmoskon/SusTra/blob/mmoskon/01_traffic_google_preprocess.ipynb): data validation, preprocessing and export for further analyses of travel time data.
@@ -12,8 +12,6 @@ SusTra: analysis of traffic sustainability
   
 ## Folders
  * `data`: input data and data produced by preprocessing and used by further analyses.
- * `data\stevci`: counter data from within the city.
- * `data\stevci_obvoznica`: counter data from the ring around the city.
  * `cosinor_results*`: result of the cosinor analysis.
  * `regression_results*`: result of the regression analysis.
  * `figs`: selected figures.
