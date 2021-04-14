@@ -1,6 +1,6 @@
 # NSAPub: Neighbourhood Sustainability Assessment using Publicly available data
 
-This repository is accompanying the paper **Integrative approach for neighbourhood sustainability assessment using publicly available traffic data** by *Š. Verovšek, M.  Juvančič, S. Petrovčič, T. Zupančič, M. Svetina, M. Janež, Ž. Pušnik, N, Velikajne, and M, Moškon*.
+This repository is accompanying the paper **Integrative approach for neighbourhood sustainability assessment using publicly available traffic data** by *Š. Verovšek, M.  Juvančič, S. Petrovčič, T. Zupančič, M. Svetina, M. Janež, Ž. Pušnik, N, Velikajne, and M. Moškon*.
 
 
 ## Main files
