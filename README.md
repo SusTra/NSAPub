@@ -2,7 +2,7 @@
 Neighbourhood Sustainability Assessment using Publicly available data
 
 ## Files
- * [`01_traffic_google_preprocess.ipynb`](https://github.com/mmoskon/SusTra/blob/mmoskon/01_traffic_google_preprocess.ipynb): data validation, preprocessing and export for further analyses of travel time data.
+ * [`01_traffic_google_preprocess.ipynb`](01_traffic_google_preprocess.ipynb): data validation, preprocessing and export for further analyses of travel time data.
  * [`02_traffic_google_basic.ipynb`](https://github.com/mmoskon/SusTra/blob/mmoskon/02_traffic_google_basic.ipynb): data import, validation, basic visualisation and some tests of travel time data.
   * [`03_traffic_google_analyse_circadian.ipynb`](https://github.com/mmoskon/SusTra/blob/mmoskon/03_traffic_google_analyse_circadian.ipynb): circadian analyis  of travel time data using the CosinorPy package (located in the `CosinorPy` folder). Results are exported to `cosinor_results*` folders.
   * [`04_traffic_counters_preprocess.ipynb`](https://github.com/mmoskon/SusTra/blob/mmoskon/04_traffic_counters_preprocess.ipynb): merge and preprocess the counter data.
