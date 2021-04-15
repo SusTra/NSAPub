@@ -1,5 +1,5 @@
 MIT License
-Copyright (c) 2020 Špela Verovšek, Matevž  Juvančič, Simon Petrovčič, Tadeja 
+Copyright (c) 2021 Špela Verovšek, Matevž  Juvančič, Simon Petrovčič, Tadeja 
 Zupančič, Matija Svetina, Miha Janež, Žiga Pušnik, Nina Velikajne, and Miha Moškon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
