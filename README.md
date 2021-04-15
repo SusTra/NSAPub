@@ -12,7 +12,7 @@ This repository is accompanying the paper **Integrative approach for neighbourho
   * [`traffic_google_add_counters.ipynb`](traffic_google_add_counters.ipynb): merge travel time data with counter data.
   * [`pace_regression.ipynb`](pace_regression.ipynb): establish, evaluate and plot the regression functions for the assessment of travel time data using counter data.
   * [`reliability_performance_measures.ipynb`](reliability_performance_measures.ipynb): plot the reliability performance measures graph on a selected route.
-  * evaluate reliability performance measures, namely, travel time index (TTI) and planning time index (PTI).
+  * [`partial_correlation_and_travel_indices.ipynb`](partial_correlation_and_travel_indices.ipynb): calculate partial correlations between the observed variables; evaluate reliability performance measures, namely, travel time index (TTI) and planning time index (PTI).
   
 ## Folders
  * `data`: input data and data produced by preprocessing and used by further analyses.
