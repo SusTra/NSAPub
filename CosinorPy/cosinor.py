@@ -632,7 +632,7 @@ def population_fit(df_pop, n_components = 2, period = 24, model_type = 'lin', li
     return params, statistics, statistics_params, rhythm_params, results
 
 
-def fit_me(X, Y, n_components = 2, period = 24, model_type = 'lin', lin_comp = False, alpha = 0, name = '', save_to = '', plot=True, plot_residuals=False, plot_measurements=True, plot_margins=True, return_model = False, color = False, plot_phase = True, hold=False, x_label = "", y_label = ""):
+def fit_me(X, Y, n_components = 2, period = 24, model_type = 'lin', lin_comp = False, alpha = 0, name = '', save_to = '', plot=True, plot_residuals=False, plot_measurements=True, plot_margins=True, return_model = False, color = False, plot_phase = True, hold=False, x_label = "", y_label = "", xticks = []):
     """
     ###
     # prepare the independent variables
@@ -872,6 +872,9 @@ def fit_me(X, Y, n_components = 2, period = 24, model_type = 'lin', lin_comp = F
         #fig = plt.gcf()
         #fig.set_size_inches(11,8)               
         
+        if len(xticks) > 0:
+            #print(xticks)
+            plt.xticks(xticks, xticks)
 
         
         if not hold:
@@ -2255,12 +2258,13 @@ def plot_df_models(df, df_models, plot_residuals=True, plot_phase = True, folder
             fit_me(X, Y, n_components = n_components, period = period, name = test, save_to = "", plot_residuals = plot_residuals, plot_phase = plot_phase, x_label = x_label, y_label = y_label)
 
 
-def plot_tuples_best_models(df, df_best_models, tuples, colors = ['black', 'red'], folder = '', x_label = '', y_label = ''):
+def plot_tuples_best_models(df, df_best_models, tuples, colors = ['black', 'red'], folder = '', max_x = 0, **kwargs):
     
     
     for T in tuples:
         min_x = 1000
-        max_x = -1000
+        if not max_x:
+            max_x = -1000
         min_y = 1000
         max_y = -1000
 
@@ -2272,11 +2276,15 @@ def plot_tuples_best_models(df, df_best_models, tuples, colors = ['black', 'red'
             X, Y = np.array(df[df.test == test].x), np.array(df[df.test == test].y)  
 
             min_x = min(min(X), min_x)
-            max_x = max(max(X % period), max_x)
+           
+            if not max_x:
+                max_x = max(max(X % period), max_x)
+            
+             
             min_y = min(min(Y), min_y)
             max_y = max(max(Y), max_y)
 
-            fit_me(X, Y, n_components = n_components, period = period, name = test, save_to = "", plot_residuals = False, hold=True, color = color, x_label = x_label, y_label = y_label)
+            fit_me(X, Y, n_components = n_components, period = period, name = test, save_to = "", plot_residuals = False, hold=True, color = color, **kwargs)
         
         plt.title(" + ".join(T))
         if folder:
