@@ -1,0 +1,56 @@
+MESTNA OBÈINA LJUBLJANA, MESTNA UPRAVA - PROMET
+Dnevni podatki
+Prometni odsek: 0000   /  Števno mesto (STM): 1907-221 Drenikova žel. podvoz > Bežigrad  /  Vhodna STM: 803  /  Tip števca: QLD1
+Smer 1: Verovškova > Parmova (proti vzhodu)
+Smer 2: Parmova > Verovškova (proti zahodu)
+Za èas od: 01/08/2020 do 31/08/2020
+Èas obdelave podatkov: 03/09/2020    05:35
+ 
+POVPREÈNI DNEVNI PROMET OBDOBJA (VSA VOZILA)                       :        1008
+                                                                      ----------
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA MO - MOTORNA KOLESA             :        1008
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA OA - OSEBNA VOZILA              :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA BUS - AVTOBUSE                  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA LT - LAHKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA ST - SRED. TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TT - TEŽKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TP - TOV. VOZILA S PRIKLOPNIKI  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TPP - VLAÈILCE                  :           0
+
+                                                      SMER 1                                                  SMER 2 
+          DATUM         Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA1  Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA2   SUMA3 Err
+ STM     DD.MM.LL  Dan  (MO)   (OA)         (LT)  (ST)  (TT)  (TP) (TPP)          (MO)   (OA)         (LT)  (ST)  (TT)  (TP)  (TPP)          (1+2)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1907-221 01.08.20  Sob     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 02.08.20  Ned     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 03.08.20  Pon     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 04.08.20  Tor     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 05.08.20  Sre     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 06.08.20  Èet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 07.08.20  Pet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 08.08.20  Sob     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 09.08.20  Ned     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 10.08.20  Pon     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 11.08.20  Tor     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 12.08.20  Sre     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 13.08.20  Èet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 14.08.20  Pet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 15.08.20  Sob   519       0     0     0     0     0     0     0     519    15       0     0     0     0     0     0     0      15     534    
+1907-221 16.08.20  Ned   582       0     0     0     0     0     0     0     582    16       0     0     0     0     0     0     0      16     598    
+1907-221 17.08.20  Pon  1183       0     0     0     0     0     0     0    1183    38       0     0     0     0     0     0     0      38    1221    
+1907-221 18.08.20  Tor  1180       0     0     0     0     0     0     0    1180    35       0     0     0     0     0     0     0      35    1215    
+1907-221 19.08.20  Sre  1406       0     0     0     0     0     0     0    1406    31       0     0     0     0     0     0     0      31    1437    
+1907-221 20.08.20  Èet  1444       0     0     0     0     0     0     0    1444    36       0     0     0     0     0     0     0      36    1480    
+1907-221 21.08.20  Pet  1311       0     0     0     0     0     0     0    1311    39       0     0     0     0     0     0     0      39    1350    
+1907-221 22.08.20  Sob   612       0     0     0     0     0     0     0     612    21       0     0     0     0     0     0     0      21     633    
+1907-221 23.08.20  Ned   583       0     0     0     0     0     0     0     583    20       0     0     0     0     0     0     0      20     603    
+1907-221 24.08.20  Pon     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 25.08.20  Tor     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 26.08.20  Sre     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 27.08.20  Èet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 28.08.20  Pet     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 29.08.20  Sob     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 30.08.20  Ned     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 31.08.20  Pon     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+======================================================================================================================================================
+     Za skupaj  9 dni:  8820       0     0     0     0     0     0     0    8820   251       0     0     0     0     0     0     0     251    9071

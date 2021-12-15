@@ -1,0 +1,35 @@
+title,id,stevci_lokacijaOpis
+"AC-A1, R Zadobrova(LJsev-LJvzh) : LJsev-LJvzh (v)",1003-11,R Zadobrova(LJsev-LJvzh)
+"AC-A1, R Zadobrova(LJsev-LJvzh) : LJsev-LJvzh (p)",1003-12,R Zadobrova(LJsev-LJvzh)
+"AC-A1, R Zadobrova(LJvzh-LJsev) : LJvzh - LJsev (v)",1004-11,R Zadobrova(LJvzh-LJsev)
+"AC-A1, R Zadobrova(LJvzh-LJsev) : LJvzh - LJsev (p)",1004-12,R Zadobrova(LJvzh-LJsev)
+"AC-A1, R Malence : LJjug-LJvzh (v)",1018-21,R Malence
+"AC-A1, R Malence : LJjug-LJvzh (p)",1018-22,R Malence
+"AC-A1, R Malence : LJvzh-LJjug (v)",1018-11,R Malence
+"AC-A1, R Malence : LJvzh-LJjug (p)",1018-12,R Malence
+"AC-A1, LJ (južna obvoznica) : LJ (Barjanska - Dolenjska) (v)",0178-21,LJ (južna obvoznica)
+"AC-A1, LJ (južna obvoznica) : LJ (Barjanska - Dolenjska) (p)",0178-22,LJ (južna obvoznica)
+"AC-A1, LJ (južna obvoznica) : LJ (Dolenjska - Barjanska) (v)",0178-11,LJ (južna obvoznica)
+"AC-A1, LJ (južna obvoznica) : LJ (Dolenjska - Barjanska) (p)",0178-12,LJ (južna obvoznica)
+"AC-A1, LJ (vzh. obvoznica) : smer Malence (po)",0180-11,LJ (vzh. obvoznica)
+"AC-A1, LJ (vzh. obvoznica) : smer Malence (v)",0180-12,LJ (vzh. obvoznica)
+"AC-A1, LJ (vzh. obvoznica) : smer Malence (p)",0180-13,LJ (vzh. obvoznica)
+"AC-A1, LJ (vzh. obvoznica) : smer Zadobrova (v)",0180-21,LJ (vzh. obvoznica)
+"AC-A1, LJ (vzh. obvoznica) : smer Zadobrova (p)",0180-22,LJ (vzh. obvoznica)
+"AC-A2, R Kozarje : LJBrdo-LJjug (v)",1017-11,R Kozarje
+"AC-A2, R Kozarje : LJBrdo-LJjug (p)",1017-12,R Kozarje
+"AC-A2, R Kozarje : LJjug-LJBrdo (v)",1017-21,R Kozarje
+"AC-A2, R Kozarje : LJjug-LJBrdo (p)",1017-22,R Kozarje
+"AC-A2, Bokalce AC : Brdo - Kozarje (v)",0855-11,Bokalce AC
+"AC-A2, Bokalce AC : Brdo - Kozarje (p)",0855-12,Bokalce AC
+"AC-A2, Bokalce AC : Kozarje - Brdo (v)",0855-21,Bokalce AC
+"AC-A2, Bokalce AC : Kozarje - Brdo (p)",0855-22,Bokalce AC
+"HC-H3, R Koseze : Brdo-LJsev (v)",1010-21,R Koseze
+"HC-H3, R Koseze : Brdo-LJsev (p)",1010-22,R Koseze
+"HC-H3, R Koseze : LJsev-Brdo (v)",1010-11,R Koseze
+"HC-H3, R Koseze : LJsev-Brdo (p)",1010-12,R Koseze
+"HC-H3, LJ (S obvoznica) : LJ (Celovška - Dunajska) (v)",0174-21,LJ (S obvoznica)
+"HC-H3, LJ (S obvoznica) : LJ (Celovška - Dunajska) (p)",0174-22,LJ (S obvoznica)
+"HC-H3, LJ (Dravlje HC) : LJ, Celovška - Koseze (v)",0199-11,LJ (Dravlje HC)
+"HC-H3, LJ (Dravlje HC) : LJ, Celovška - Koseze (p)",0199-12,LJ (Dravlje HC)
+"HC-H3, Priključek Nove Jarše : uvoz na HC ",0892-11,Priključek Nove Jarše

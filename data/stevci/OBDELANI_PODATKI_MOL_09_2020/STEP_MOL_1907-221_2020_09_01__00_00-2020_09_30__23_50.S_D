@@ -1,0 +1,55 @@
+MESTNA OBÈINA LJUBLJANA, MESTNA UPRAVA - PROMET
+Dnevni podatki
+Prometni odsek: 0000   /  Števno mesto (STM): 1907-221 Drenikova žel. podvoz > Bežigrad  /  Vhodna STM: 803  /  Tip števca: QLD1
+Smer 1: Verovškova > Parmova (proti vzhodu)
+Smer 2: Parmova > Verovškova (proti zahodu)
+Za èas od: 01/09/2020 do 30/09/2020
+Èas obdelave podatkov: 04/10/2020    05:28
+ 
+POVPREÈNI DNEVNI PROMET OBDOBJA (VSA VOZILA)                       :        1170
+                                                                      ----------
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA MO - MOTORNA KOLESA             :        1170
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA OA - OSEBNA VOZILA              :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA BUS - AVTOBUSE                  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA LT - LAHKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA ST - SRED. TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TT - TEŽKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TP - TOV. VOZILA S PRIKLOPNIKI  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TPP - VLAÈILCE                  :           0
+
+                                                      SMER 1                                                  SMER 2 
+          DATUM         Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA1  Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA2   SUMA3 Err
+ STM     DD.MM.LL  Dan  (MO)   (OA)         (LT)  (ST)  (TT)  (TP) (TPP)          (MO)   (OA)         (LT)  (ST)  (TT)  (TP)  (TPP)          (1+2)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1907-221 01.09.20  Tor     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 ###
+1907-221 02.09.20  Sre     0       0     0     0     0     0     0     0       0     0       0     0     0     0     0     0     0       0       0 BRI
+1907-221 03.09.20  Èet  1584       0     0     0     0     0     0     0    1584    34       0     0     0     0     0     0     0      34    1618    
+1907-221 04.09.20  Pet  1492       0     0     0     0     0     0     0    1492    40       0     0     0     0     0     0     0      40    1532    
+1907-221 05.09.20  Sob   698       0     0     0     0     0     0     0     698    20       0     0     0     0     0     0     0      20     718    
+1907-221 06.09.20  Ned   614       0     0     0     0     0     0     0     614    23       0     0     0     0     0     0     0      23     637    
+1907-221 07.09.20  Pon  1298       0     0     0     0     0     0     0    1298    33       0     0     0     0     0     0     0      33    1331    
+1907-221 08.09.20  Tor  1686       0     0     0     0     0     0     0    1686    39       0     0     0     0     0     0     0      39    1725    
+1907-221 09.09.20  Sre  1672       0     0     0     0     0     0     0    1672    45       0     0     0     0     0     0     0      45    1717    
+1907-221 10.09.20  Èet  1659       0     0     0     0     0     0     0    1659    38       0     0     0     0     0     0     0      38    1697    
+1907-221 11.09.20  Pet  1478       0     0     0     0     0     0     0    1478    41       0     0     0     0     0     0     0      41    1519    
+1907-221 12.09.20  Sob   673       0     0     0     0     0     0     0     673    22       0     0     0     0     0     0     0      22     695    
+1907-221 13.09.20  Ned   710       0     0     0     0     0     0     0     710    32       0     0     0     0     0     0     0      32     742    
+1907-221 14.09.20  Pon  1704       0     0     0     0     0     0     0    1704    38       0     0     0     0     0     0     0      38    1742    
+1907-221 15.09.20  Tor  1718       0     0     0     0     0     0     0    1718    47       0     0     0     0     0     0     0      47    1765    
+1907-221 16.09.20  Sre  1678       0     0     0     0     0     0     0    1678    47       0     0     0     0     0     0     0      47    1725    
+1907-221 17.09.20  Èet  1480       0     0     0     0     0     0     0    1480    39       0     0     0     0     0     0     0      39    1519    
+1907-221 18.09.20  Pet  1413       0     0     0     0     0     0     0    1413    27       0     0     0     0     0     0     0      27    1440    
+1907-221 19.09.20  Sob   690       0     0     0     0     0     0     0     690    23       0     0     0     0     0     0     0      23     713    
+1907-221 20.09.20  Ned   624       0     0     0     0     0     0     0     624    18       0     0     0     0     0     0     0      18     642    
+1907-221 21.09.20  Pon  1412       0     0     0     0     0     0     0    1412    35       0     0     0     0     0     0     0      35    1447    
+1907-221 22.09.20  Tor  1024       0     0     0     0     0     0     0    1024    31       0     0     0     0     0     0     0      31    1055    
+1907-221 23.09.20  Sre   927       0     0     0     0     0     0     0     927    23       0     0     0     0     0     0     0      23     950    
+1907-221 24.09.20  Èet  1394       0     0     0     0     0     0     0    1394    51       0     0     0     0     0     0     0      51    1445    
+1907-221 25.09.20  Pet   354       0     0     0     0     0     0     0     354     8       0     0     0     0     0     0     0       8     362    
+1907-221 26.09.20  Sob   422       0     0     0     0     0     0     0     422    16       0     0     0     0     0     0     0      16     438    
+1907-221 27.09.20  Ned   413       0     0     0     0     0     0     0     413    12       0     0     0     0     0     0     0      12     425    
+1907-221 28.09.20  Pon   407       0     0     0     0     0     0     0     407    17       0     0     0     0     0     0     0      17     424    
+1907-221 29.09.20  Tor  1260       0     0     0     0     0     0     0    1260    27       0     0     0     0     0     0     0      27    1287    
+1907-221 30.09.20  Sre  1419       0     0     0     0     0     0     0    1419    34       0     0     0     0     0     0     0      34    1453    
+======================================================================================================================================================
+     Za skupaj 28 dni: 31903       0     0     0     0     0     0     0   31903   860       0     0     0     0     0     0     0     860   32763

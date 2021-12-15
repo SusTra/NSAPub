@@ -1,0 +1,55 @@
+MESTNA OBÈINA LJUBLJANA, MESTNA UPRAVA - PROMET
+Dnevni podatki
+Prometni odsek: 0000   /  Števno mesto (STM): 1908-241 Drenikova žel. podvoz > Šiška  /  Vhodna STM: 903  /  Tip števca: QLD1
+Smer 1: Parmova > Verovškova (proti zahodu)
+Smer 2: Verovškova > Parmova (proti vzhodu)
+Za èas od: 01/11/2020 do 30/11/2020
+Èas obdelave podatkov: 02/12/2020    08:38
+ 
+POVPREÈNI DNEVNI PROMET OBDOBJA (VSA VOZILA)                       :         552
+                                                                      ----------
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA MO - MOTORNA KOLESA             :         552
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA OA - OSEBNA VOZILA              :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA BUS - AVTOBUSE                  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA LT - LAHKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA ST - SRED. TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TT - TEŽKA TOVORNA VOZILA       :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TP - TOV. VOZILA S PRIKLOPNIKI  :           0
+POVPREÈNI DNEVNI PROMET OBDOBJA ZA TPP - VLAÈILCE                  :           0
+
+                                                      SMER 1                                                  SMER 2 
+          DATUM         Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA1  Mot.  Osebni   BUS L.Tov S.Tov T.Tov T.S.P  Vlaè   SUMA2   SUMA3 Err
+ STM     DD.MM.LL  Dan  (MO)   (OA)         (LT)  (ST)  (TT)  (TP) (TPP)          (MO)   (OA)         (LT)  (ST)  (TT)  (TP)  (TPP)          (1+2)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1908-241 01.11.20  Ned   541       0     0     0     0     0     0     0     541    10       0     0     0     0     0     0     0      10     551    
+1908-241 02.11.20  Pon   854       0     0     0     0     0     0     0     854    17       0     0     0     0     0     0     0      17     871    
+1908-241 03.11.20  Tor   911       0     0     0     0     0     0     0     911    24       0     0     0     0     0     0     0      24     935    
+1908-241 04.11.20  Sre   490       0     0     0     0     0     0     0     490    12       0     0     0     0     0     0     0      12     502    
+1908-241 05.11.20  Èet   645       0     0     0     0     0     0     0     645    14       0     0     0     0     0     0     0      14     659    
+1908-241 06.11.20  Pet   817       0     0     0     0     0     0     0     817     9       0     0     0     0     0     0     0       9     826    
+1908-241 07.11.20  Sob   522       0     0     0     0     0     0     0     522    16       0     0     0     0     0     0     0      16     538    
+1908-241 08.11.20  Ned   388       0     0     0     0     0     0     0     388    15       0     0     0     0     0     0     0      15     403    
+1908-241 09.11.20  Pon   574       0     0     0     0     0     0     0     574    11       0     0     0     0     0     0     0      11     585    
+1908-241 10.11.20  Tor   602       0     0     0     0     0     0     0     602     7       0     0     0     0     0     0     0       7     609    
+1908-241 11.11.20  Sre   581       0     0     0     0     0     0     0     581     6       0     0     0     0     0     0     0       6     587    
+1908-241 12.11.20  Èet   590       0     0     0     0     0     0     0     590    11       0     0     0     0     0     0     0      11     601    
+1908-241 13.11.20  Pet   718       0     0     0     0     0     0     0     718    11       0     0     0     0     0     0     0      11     729    
+1908-241 14.11.20  Sob   502       0     0     0     0     0     0     0     502    22       0     0     0     0     0     0     0      22     524    
+1908-241 15.11.20  Ned   359       0     0     0     0     0     0     0     359     6       0     0     0     0     0     0     0       6     365    
+1908-241 16.11.20  Pon   199       0     0     0     0     0     0     0     199     4       0     0     0     0     0     0     0       4     203    
+1908-241 17.11.20  Tor   692       0     0     0     0     0     0     0     692    16       0     0     0     0     0     0     0      16     708    
+1908-241 18.11.20  Sre   688       0     0     0     0     0     0     0     688    18       0     0     0     0     0     0     0      18     706    
+1908-241 19.11.20  Èet   604       0     0     0     0     0     0     0     604    18       0     0     0     0     0     0     0      18     622    
+1908-241 20.11.20  Pet   500       0     0     0     0     0     0     0     500    10       0     0     0     0     0     0     0      10     510    
+1908-241 21.11.20  Sob   440       0     0     0     0     0     0     0     440     9       0     0     0     0     0     0     0       9     449    
+1908-241 22.11.20  Ned   364       0     0     0     0     0     0     0     364    14       0     0     0     0     0     0     0      14     378    
+1908-241 23.11.20  Pon   567       0     0     0     0     0     0     0     567    10       0     0     0     0     0     0     0      10     577    
+1908-241 24.11.20  Tor   548       0     0     0     0     0     0     0     548    11       0     0     0     0     0     0     0      11     559    
+1908-241 25.11.20  Sre   526       0     0     0     0     0     0     0     526    14       0     0     0     0     0     0     0      14     540    
+1908-241 26.11.20  Èet   476       0     0     0     0     0     0     0     476    15       0     0     0     0     0     0     0      15     491    
+1908-241 27.11.20  Pet   488       0     0     0     0     0     0     0     488    10       0     0     0     0     0     0     0      10     498    
+1908-241 28.11.20  Sob   262       0     0     0     0     0     0     0     262     6       0     0     0     0     0     0     0       6     268    
+1908-241 29.11.20  Ned   198       0     0     0     0     0     0     0     198     7       0     0     0     0     0     0     0       7     205    
+1908-241 30.11.20  Pon   550       0     0     0     0     0     0     0     550    16       0     0     0     0     0     0     0      16     566    
+======================================================================================================================================================
+     Za skupaj 30 dni: 16196       0     0     0     0     0     0     0   16196   369       0     0     0     0     0     0     0     369   16565
